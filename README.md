@@ -3,3 +3,4 @@ A structured collection of Data Structures implementations in C, covering core c
 ## Prgrams included
 #Linked List
 -Singly Linked List
+-Doubly Linked List
